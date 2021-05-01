@@ -30,4 +30,5 @@ botnaja.on("message", (msg) => {
 
 const botnaja_command = (command, args) => {
   if(command === 'fck') return 'ไอ้สัด!!!';
+  if(command === 'yed') return 'ไอโง้ภู!!!';
 };
